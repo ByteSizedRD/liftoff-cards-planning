@@ -10,7 +10,13 @@ Liftoff Cards is an App that will allow you to score your favorite card games, s
 
 ## Features
 
-This app will include user profiles, the ability to keep score for different types of games, detailed statistics, and data visualization.
+User Profiles: Each unique user will have a profile to store their name & game stats
+
+Ability to score different games: This app will include the ability to score multiple games (Pinochle, Hearts, Ol' Shoot, Canasta)
+
+Detailed Statitics: The app will store details statistics beyond just wins/losses. Examples: longest winning streak, highest overall score, etc.
+
+Data Visualization: I will utilize a JS library to create data visualizations
 
 ## Technologies
 
