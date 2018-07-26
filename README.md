@@ -24,4 +24,8 @@ React, Spring REST, PostgreSQL, Swagger, ChartJS
 
 ## What I'll Have to Learn
 
-All of the technologies in this project are new to me.
+All of the technologies in this project are fairly new to me.
+
+## Story Mapping
+
+![Story Map](/storymap/storymap.png)
