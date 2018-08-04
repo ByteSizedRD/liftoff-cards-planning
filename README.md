@@ -32,8 +32,8 @@ I have some experience with React and Spring, but all of these technologies are 
 
 ## Wireframes
 
-![Wireframe1](/wireframes/Wireframe1.png)
+![Wireframe1](/wireframes/wireframe1.png)
 
-![Wireframe2](/wireframes/Wireframe2.png)
+![Wireframe2](/wireframes/wireframe2.png)
 
-![Wireframe3](/wireframes/Wireframe3.png)
+![Wireframe3](/wireframes/wireframe3.png)
