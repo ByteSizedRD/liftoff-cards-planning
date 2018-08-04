@@ -27,7 +27,7 @@ Data Visualization: I will utilize a JS library to create data visualizations
 
 ## Technologies
 
-React, Spring REST API, PostgreSQL, Swagger, ChartJS, Digital Ocean, TravisCI
+React, Flow, Jest, Spring, PostgreSQL, Swagger, ChartJS, Digital Ocean, TravisCI
 
 ## What I'll Have to Learn
 
