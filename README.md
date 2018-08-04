@@ -26,15 +26,25 @@ Data Visualization: I will utilize a JS library to create data visualizations
 
 ## Technologies
 
-React, Spring REST, PostgreSQL, Swagger, ChartJS
+React, Spring REST API, PostgreSQL, Swagger, ChartJS
 
 ## What I'll Have to Learn
 
 I have some experience with React and Spring, but all of these technologies are relatively new to me.
 
+
+
 ## Story Mapping
 
 ![Story Map](/storymap/storymap.png)
+
+
+
+## User Stories
+
+I'll be using [GitHub Projects](https://github.com/lindskelsey/liftoff-cards-planning/projects/1) for my User Stories
+
+
 
 ## Wireframes
 
