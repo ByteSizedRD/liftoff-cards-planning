@@ -2,9 +2,10 @@
 
 ## Links
 
-###### [React UI](https://github.com/lindskelsey/liftoff-cards-ui)
-###### Spring API: TBD
-###### Swagger Page: TBD
+###### [React UI Source Code](https://github.com/lindskelsey/liftoff-cards-ui)
+###### React UI Demo: TBD
+###### Spring API Source Code: TBD
+###### Swagger API Documentation: TBD
 
 ## Overview
 
@@ -26,13 +27,11 @@ Data Visualization: I will utilize a JS library to create data visualizations
 
 ## Technologies
 
-React, Spring REST API, PostgreSQL, Swagger, ChartJS
+React, Spring REST API, PostgreSQL, Swagger, ChartJS, Digital Ocean, TravisCI
 
 ## What I'll Have to Learn
 
 I have some experience with React and Spring, but all of these technologies are relatively new to me.
-
-
 
 ## Story Mapping
 
