@@ -2,14 +2,9 @@
 
 ## Links
 
-###### [React UI Source Code](https://github.com/lindskelsey/liftoff-cards-ui)
-###### React UI Demo: TBD
-###### Spring API Source Code: TBD
-###### Swagger API Documentation: TBD
-
 ## Overview
 
-This is the repository for a project I'm making along with my group while mentoring Liftoff at LaunchCode. This project will serve as an example for the course, but will also help me expand my own skills, while experiencing the same struggles and triumps of the students in class.
+This is the repository for a sample project for the students I am mentoring in Liftoff at LaunchCode.
 
 Problem I'm solving: My family often plays cards together- and for some games, scoring is quite involved & easy to make mistakes. Additionally, we keep a running tally of wins for some games on a piece of paper, but would like to be able to keep track of more complex data.
 
@@ -27,7 +22,7 @@ Data Visualization: I will utilize a JS library to create data visualizations
 
 ## Technologies
 
-React, Flow, Jest, Spring, PostgreSQL, Swagger, ChartJS, Digital Ocean, TravisCI
+React, TypeScript, Jest, Spring, PostgreSQL, Swagger, ChartJS, Digital Ocean, TravisCI
 
 ## What I'll Have to Learn
 
